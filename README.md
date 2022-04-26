@@ -21,4 +21,4 @@ The tutorial will run for about 1 hour and we will cover the following topics:
 
 ## Click below to access a live environment and start coding!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonprz01/dataviz-short-tutorial/master?filepath=01_data_vi[](../../../../blank)z.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonpzg/dataviz-short-tutorial/master?labpath=01_data_viz.ipynb)
