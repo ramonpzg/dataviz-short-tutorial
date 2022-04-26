@@ -1,4 +1,3 @@
-jupyterlab
 altair==4.1.0
 beautifulsoup4
 bokeh
