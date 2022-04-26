@@ -4,5 +4,7 @@ bokeh
 bs4
 matplotlib
 numpy
+packaging
 pandas
+pip
 scipy
