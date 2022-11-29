@@ -2,3 +2,5 @@ altair
 numpy
 pandas
 pip
+matplotlib
+jupyterlab
